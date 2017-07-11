@@ -13,6 +13,9 @@ pkgs <- c('tidyverse', 'tidyquant', 'scales', 'quantmod')
 lapply(pkgs, require, quietly = TRUE, character.only = TRUE)
 
 ```
+```{r}
+
+```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
